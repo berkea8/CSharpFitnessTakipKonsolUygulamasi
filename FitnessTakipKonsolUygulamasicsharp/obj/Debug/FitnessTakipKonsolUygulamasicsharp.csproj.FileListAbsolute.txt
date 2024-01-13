@@ -1,0 +1,7 @@
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\bin\Debug\FitnessTakipKonsolUygulamasicsharp.exe.config
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\bin\Debug\FitnessTakipKonsolUygulamasicsharp.exe
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\bin\Debug\FitnessTakipKonsolUygulamasicsharp.pdb
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\obj\Debug\FitnessTakipKonsolUygulamasicsharp.csproj.AssemblyReference.cache
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\obj\Debug\FitnessTakipKonsolUygulamasicsharp.csproj.CoreCompileInputs.cache
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\obj\Debug\FitnessTakipKonsolUygulamasicsharp.exe
+C:\Users\ardac\OneDrive\Masaüstü\C#\FitnessTakipKonsolUygulamasicsharp\FitnessTakipKonsolUygulamasicsharp\obj\Debug\FitnessTakipKonsolUygulamasicsharp.pdb
